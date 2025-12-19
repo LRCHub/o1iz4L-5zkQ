@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "気まぐれメルシィ feat. 初音ミク（feat. 初音ミク）",
+  "base_artist": "八王子P",
+  "createdAt": "2025-12-19T09:47:31.423507Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "気まぐれメルシィ",
+      "artist": "Hachioji P feat. Miku Hatsune",
+      "has_synced": false,
+      "path": "select/01_気まぐれメルシィ_Hachioji_P_feat._Miku_Hatsune.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "気まぐれメルシィ",
+      "artist": "MORE MORE JUMP! feat. 花里みのり&桐谷遥&桃井愛莉&日野森雫&初音ミク",
+      "has_synced": true,
+      "path": "select/02_気まぐれメルシィ_MORE_MORE_JUMP!_feat._花里みのり&桐谷遥&桃井愛莉&日野森雫&初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "気まぐれメルシィ",
+      "artist": "Hachioji P, Hatsune Miku",
+      "has_synced": true,
+      "path": "select/03_気まぐれメルシィ_Hachioji_P,_Hatsune_Miku.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "気まぐれメルシィ",
+      "artist": "Hachioji P",
+      "has_synced": true,
+      "path": "select/04_気まぐれメルシィ_Hachioji_P.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "気まぐれメルシィ feat. 初音ミク",
+      "artist": "Hachioji P",
+      "has_synced": true,
+      "path": "select/05_気まぐれメルシィ_feat._初音ミク_Hachioji_P.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "気まぐれメルシィ feat. 初音ミク - Kimagure Mercy (feat. 初音ミク)",
+      "artist": "Hachioji P",
+      "has_synced": true,
+      "path": "select/06_気まぐれメルシィ_feat._初音ミク_-_Kimagure_Mercy_(feat._初音ミク)_Hachioji_P.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "気まぐれメルシィ",
+      "artist": "MORE MORE JUMP!",
+      "has_synced": true,
+      "path": "select/07_気まぐれメルシィ_MORE_MORE_JUMP!.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "気まぐれメルシィ",
+      "artist": "Hachioji P feat. Hatsune, Miku",
+      "has_synced": true,
+      "path": "select/08_気まぐれメルシィ_Hachioji_P_feat._Hatsune,_Miku.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "気まぐれメルシィ",
+      "artist": "MORE MORE JUMP! (小倉唯, 吉岡茉祐, 降幡愛, 本泉莉奈)",
+      "has_synced": true,
+      "path": "select/09_気まぐれメルシィ_MORE_MORE_JUMP!_(小倉唯,_吉岡茉祐,_降幡愛,_本泉莉奈).lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "気まぐれメルシィ",
+      "artist": "Hachioji P",
+      "has_synced": true,
+      "path": "select/10_気まぐれメルシィ_Hachioji_P.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "気まぐれメルシィ",
+      "artist": "八王子P feat. 初音ミク",
+      "has_synced": true,
+      "path": "select/11_気まぐれメルシィ_八王子P_feat._初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "気まぐれメルシィ",
+      "artist": "八王子P, 初音ミク",
+      "has_synced": true,
+      "path": "select/12_気まぐれメルシィ_八王子P,_初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "気まぐれメルシィ (feat. 花里みのり&桐谷遥&桃井愛莉&日野森雫&初音ミク)",
+      "artist": "MORE MORE JUMP!",
+      "has_synced": true,
+      "path": "select/13_気まぐれメルシィ_(feat._花里みのり&桐谷遥&桃井愛莉&日野森雫&初音ミク)_MORE_MORE_JUMP!.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "気まぐれメルシィ (feat. 花里みのり&桐谷遥&桃井愛莉&日野森雫&初音ミク)",
+      "artist": "MORE MORE JUMP!",
+      "has_synced": true,
+      "path": "select/14_気まぐれメルシィ_(feat._花里みのり&桐谷遥&桃井愛莉&日野森雫&初音ミク)_MORE_MORE_JUMP!.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "気まぐれメルシィ (feat. 花里みのり & 桐谷遥 & 桃井愛莉 & 日野森雫 &...",
+      "artist": "MORE MORE JUMP!",
+      "has_synced": true,
+      "path": "select/15_気まぐれメルシィ_(feat._花里みのり_&_桐谷遥_&_桃井愛莉_&_日野森雫_&..._MORE_MORE_JUMP!.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "気まぐれメルシィ (feat. Hatsune Miku)",
+      "artist": "Hachioji P",
+      "has_synced": true,
+      "path": "select/16_気まぐれメルシィ_(feat._Hatsune_Miku)_Hachioji_P.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "気まぐれメルシィ - Kimagure Mercy (feat. 花里みのり&桐谷遥&桃井愛莉&日野森雫&初音ミク)",
+      "artist": "MORE MORE JUMP!",
+      "has_synced": true,
+      "path": "select/17_気まぐれメルシィ_-_Kimagure_Mercy_(feat._花里みのり&桐谷遥&桃井愛莉&日野森雫&初音ミク)_MORE_MORE_JUMP!.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "気まぐれメルシィ",
+      "artist": "八王子P",
+      "has_synced": false,
+      "path": "select/pl_01_気まぐれメルシィ_八王子P.txt"
+    }
+  ]
+}
